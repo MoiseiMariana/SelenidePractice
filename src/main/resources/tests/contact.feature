@@ -1,4 +1,4 @@
-@runAllFeatures
+ @regressionPack
 Feature: Contact us form
 
   Scenario: The customer successfully complete Contact form

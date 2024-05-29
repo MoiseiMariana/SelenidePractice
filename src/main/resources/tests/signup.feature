@@ -1,3 +1,4 @@
+@regressionPack
 Feature: Sing up process
 
   Scenario: The customer is sign up successfully

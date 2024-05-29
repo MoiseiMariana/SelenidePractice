@@ -1,4 +1,4 @@
-
+@regressionPack
 Feature: Log in feature
 
   Scenario: The customer is successfully log in

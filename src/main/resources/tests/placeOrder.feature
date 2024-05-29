@@ -1,3 +1,4 @@
+@regressionPack
 Feature: Place an order
 
   Scenario: The product Samsung Galaxy s6 is added in the cart and the order is successfully placed

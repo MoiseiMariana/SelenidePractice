@@ -1,3 +1,4 @@
+@regressionPack
 Feature: Log out process
 
   Scenario: The customer is log out successfully

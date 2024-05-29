@@ -1,3 +1,4 @@
+@regressionPack
 Feature: Filter products by Category
 
   Scenario: The product is correctly displayed in the right category

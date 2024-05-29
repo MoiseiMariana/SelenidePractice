@@ -1,4 +1,7 @@
+@regressionPack
+
 Feature: Delete a product from basket
+
 
   Scenario: The product Samsung Galaxy s6 is deleted from basket
     Given open application
